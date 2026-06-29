@@ -1,4 +1,4 @@
-# RAG知识库问答系统（产品化增强版）
+# RAG知识库问答系统
 
 基于 **Streamlit + LangChain + Ollama + ChromaDB** 的本地化 RAG（检索增强生成）知识库问答系统。
 
